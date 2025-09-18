@@ -1,0 +1,66 @@
+# Java/Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# IDEs and editors
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+.vscode/
+*.code-workspace
+
+# Build outputs and compiled classes
+*.class
+bin/
+build/
+out/
+
+# Archives (often produced during packaging)
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+log/
+logs/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+$RECYCLE.BIN/
+
+# Temp files
+tmp/
+temp/
+.cache/
+*~
+*.swp
+*.swo
+
+# Test/coverage reports (normally generated under target, but keep explicit)
+jacoco.exec
+site/
+surefire-reports/
+
+# Env files
+.env
+.env.*
+
+# JVM crash logs
+hs_err_pid*
+replay_pid*
+
+
